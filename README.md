@@ -7,7 +7,7 @@ My Dropbox App
 
 ## Result
 
-<img src="./src/img/dropbox_main.png" />
+<img src="./src/img/dropbox_main.png" style="border-radius: 30px;" />
 
 ## Installation
 
